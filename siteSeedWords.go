@@ -29,9 +29,9 @@ func GetSiteLinkWords(si *sitethrougher.SiteInfo, filters ...filter.Filter) map[
 			}
 			if info.Count >= 1 {
 				if _, ok := kim[key]; ok {
-					kim[key]++
+					kim[key] += info.Count
 				} else {
-					kim[key] = 1
+					kim[key] = info.Count
 				}
 			}
 		}
