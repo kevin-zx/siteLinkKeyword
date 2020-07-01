@@ -23,6 +23,9 @@ func GetSiteLinkWords(si *sitethrougher.SiteInfo, filters ...filter.Filter) map[
 	for _, link := range si.SiteLinks {
 		for key, info := range link.DetailHrefTexts {
 			key = clear(key)
+			if key == "___img___" {
+				continue
+			}
 			kLen := len(strings.Split(key, ""))
 			if kLen >= 15 || kLen <= 1 {
 				continue
