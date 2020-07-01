@@ -24,8 +24,12 @@ github.com/kennygrant/sanitize v1.2.4/go.mod h1:LGsjYYtgxbetdg5owWB2mpgUL6e2nfw2
 github.com/kevin-zx/5118api-go v0.0.1/go.mod h1:jomqRCeqF+R36mW+IBLwIJa9Xn/BR2TF9M7fjb1nhtg=
 github.com/kevin-zx/site-info-crawler v0.1.8 h1:rvmk/Updboqxa8mBwwoSzz26NnumGeg2hetwyrj5Ww0=
 github.com/kevin-zx/site-info-crawler v0.1.8/go.mod h1:aAhE4HhDzWyTHdBT7moRENxOYF0ZpJGiI3bLuZ7XzaQ=
+github.com/kevin-zx/site-info-crawler v0.2.0 h1:DU8t42fp1guZ9jjeD50p63tqbk3r0fZICJPi4Lje6jc=
+github.com/kevin-zx/site-info-crawler v0.2.0/go.mod h1:aAhE4HhDzWyTHdBT7moRENxOYF0ZpJGiI3bLuZ7XzaQ=
 github.com/kevin-zx/wordproperty v0.0.3 h1:q3LDe/pcwkDkLFQrDAxMqRyBQKSVgZjjPT8CGj9VZqU=
 github.com/kevin-zx/wordproperty v0.0.3/go.mod h1:xHQT/wRFnVyG+JXQohRlhtOueUjvtXpLAtcfCDyyZv4=
+github.com/kevin-zx/wordproperty v0.0.4 h1:1g1ENHTsD8D1mgmRbMGVekTA+/XmJ22sN3lDRi+AY8w=
+github.com/kevin-zx/wordproperty v0.0.4/go.mod h1:xHQT/wRFnVyG+JXQohRlhtOueUjvtXpLAtcfCDyyZv4=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/saintfish/chardet v0.0.0-20120816061221-3af4cd4741ca h1:NugYot0LIVPxTvN8n+Kvkn6TrbMyxQiuvKdEwFdR9vI=
